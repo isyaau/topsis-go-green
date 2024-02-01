@@ -1,0 +1,30 @@
+INFO - 2023-05-22 14:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 14:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 14:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 14:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-22 14:22:47 --> mysqli_sql_exception: Table 'rental_mobil.pemesan' doesn't exist in C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT * FROM p...', 0)
+#1 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM p...')
+#2 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM p...')
+#3 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\Model.php(835): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\app\Models\DataPemesanModel.php(44): CodeIgniter\Model->__call('query', Array)
+#5 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\app\Controllers\Dashboard.php(33): App\Models\DataPemesanModel->hitungJumlahPemesan()
+#6 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+#7 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\isaka\OneDrive\Dokumen\application\ci4\rental-mobil v2\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\isaka\\...')
+#11 {main}
+CRITICAL - 2023-05-22 14:22:47 --> Table 'rental_mobil.pemesan' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Model.php(835): CodeIgniter\Database\BaseConnection->query('SELECT * FROM pemesan')
+ 2 APPPATH\Models\DataPemesanModel.php(44): CodeIgniter\Model->__call('query', [...])
+ 3 APPPATH\Controllers\Dashboard.php(33): App\Models\DataPemesanModel->hitungJumlahPemesan()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-05-22 14:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 15:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

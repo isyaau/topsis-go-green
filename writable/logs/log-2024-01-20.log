@@ -1,0 +1,1629 @@
+INFO - 2024-01-20 00:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 00:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 00:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 00:41:57 --> Undefined variable $model
+in APPPATH\Controllers\DataHasil.php on line 275.
+ 1 APPPATH\Controllers\DataHasil.php(275): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model', 'APPPATH\\Controllers\\DataHasil.php', 275)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 00:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 00:42:26 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 283.
+ 1 APPPATH\Controllers\DataHasil.php(283): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 283)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 01:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 01:01:46 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 286.
+ 1 APPPATH\Controllers\DataHasil.php(286): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 286)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 01:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 01:03:21 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 286.
+ 1 APPPATH\Controllers\DataHasil.php(286): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 286)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 01:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 01:04:06 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 286.
+ 1 APPPATH\Controllers\DataHasil.php(286): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 286)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 01:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 01:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 01:04:56 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 286.
+ 1 APPPATH\Controllers\DataHasil.php(286): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 286)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 01:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 04:48:28 --> Cannot use [] for reading
+in APPPATH\Controllers\DataHasil.php on line 150.
+ 1 APPPATH\Controllers\DataHasil.php(125): App\Controllers\DataHasil->hitungDPlus()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 04:50:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 04:50:45 --> Cannot use [] for reading
+in APPPATH\Controllers\DataHasil.php on line 158.
+ 1 APPPATH\Controllers\DataHasil.php(125): App\Controllers\DataHasil->hitungDPlus()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 04:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 04:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 04:57:58 --> Undefined array key 11
+in APPPATH\Controllers\DataHasil.php on line 287.
+ 1 APPPATH\Controllers\DataHasil.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 11', 'APPPATH\\Controllers\\DataHasil.php', 287)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 04:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 04:59:29 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 287.
+ 1 APPPATH\Controllers\DataHasil.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 287)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:02:06 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 287.
+ 1 APPPATH\Controllers\DataHasil.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 287)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:13:39 --> Undefined array key 11
+in APPPATH\Controllers\DataHasil.php on line 287.
+ 1 APPPATH\Controllers\DataHasil.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 11', 'APPPATH\\Controllers\\DataHasil.php', 287)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('11')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:14:04 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 287.
+ 1 APPPATH\Controllers\DataHasil.php(287): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 287)
+ 2 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:17:54 --> Cannot use [] for reading
+in APPPATH\Controllers\DataHasil.php on line 287.
+ 1 APPPATH\Controllers\DataHasil.php(275): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:34:24 --> Cannot access offset of type string on string
+in APPPATH\Controllers\DataHasil.php on line 159.
+ 1 APPPATH\Controllers\DataHasil.php(125): App\Controllers\DataHasil->hitungDPlus()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:35:38 --> Cannot access offset of type string on string
+in APPPATH\Controllers\DataHasil.php on line 159.
+ 1 APPPATH\Controllers\DataHasil.php(125): App\Controllers\DataHasil->hitungDPlus()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:38:54 --> Illegal offset type
+in APPPATH\Controllers\DataHasil.php on line 160.
+ 1 APPPATH\Controllers\DataHasil.php(125): App\Controllers\DataHasil->hitungDPlus()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:49:20 --> Illegal offset type
+in APPPATH\Controllers\DataHasil.php on line 160.
+ 1 APPPATH\Controllers\DataHasil.php(125): App\Controllers\DataHasil->hitungDPlus()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:50:25 --> Undefined array key 1
+in APPPATH\Controllers\DataHasil.php on line 298.
+ 1 APPPATH\Controllers\DataHasil.php(298): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 1', 'APPPATH\\Controllers\\DataHasil.php', 298)
+ 2 APPPATH\Controllers\DataHasil.php(286): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:50:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:50:50 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 298.
+ 1 APPPATH\Controllers\DataHasil.php(298): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 298)
+ 2 APPPATH\Controllers\DataHasil.php(286): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:51:59 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 299.
+ 1 APPPATH\Controllers\DataHasil.php(299): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 299)
+ 2 APPPATH\Controllers\DataHasil.php(286): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:55:17 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 301.
+ 1 APPPATH\Controllers\DataHasil.php(301): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 301)
+ 2 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:57:57 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 301.
+ 1 APPPATH\Controllers\DataHasil.php(301): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 301)
+ 2 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 05:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:59:13 --> Undefined array key 10
+in APPPATH\Controllers\DataHasil.php on line 300.
+ 1 APPPATH\Controllers\DataHasil.php(300): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Controllers\\DataHasil.php', 300)
+ 2 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 05:59:28 --> Undefined array key 9
+in APPPATH\Controllers\DataHasil.php on line 300.
+ 1 APPPATH\Controllers\DataHasil.php(300): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 9', 'APPPATH\\Controllers\\DataHasil.php', 300)
+ 2 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 05:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 06:02:36 --> Call to a member function where() on array
+in APPPATH\Controllers\DataHasil.php on line 300.
+ 1 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 06:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 06:03:17 --> Call to a member function where() on array
+in APPPATH\Controllers\DataHasil.php on line 300.
+ 1 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi('10')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 06:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 06:12:17 --> Call to a member function where() on array
+in APPPATH\Controllers\DataHasil.php on line 302.
+ 1 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi(0)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 06:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 06:12:43 --> Unsupported operand types: array + int
+in APPPATH\Controllers\DataHasil.php on line 307.
+ 1 APPPATH\Controllers\DataHasil.php(288): App\Controllers\DataHasil->hitungNilaiPreferensi(0)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 06:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 06:23:59 --> Undefined array key 10
+in APPPATH\Views\hasil_topsis\nilai_preferensi.php on line 53.
+ 1 APPPATH\Views\hasil_topsis\nilai_preferensi.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 10', 'APPPATH\\Views\\hasil_topsis\\nilai_preferensi.php', 53)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\nilai_preferensi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/nilai_preferensi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(276): view('hasil_topsis/nilai_preferensi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->preferensi()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 06:25:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:56:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 06:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:00:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:07:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 07:07:16 --> Call to a member function orderBy() on array
+in APPPATH\Controllers\DataMatrix.php on line 89.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataMatrix->detail('10')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMatrix))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 07:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 07:10:14 --> Call to a member function orderBy() on array
+in APPPATH\Controllers\DataMatrix.php on line 89.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataMatrix->detail('10')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataMatrix))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 07:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:14:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:18:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:21:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:32:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:32:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 07:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 08:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:13:32 --> Call to undefined method App\Models\DataKriteriaModel::getidealMatrix
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\DataHasil.php(76): CodeIgniter\Model->__call('getidealMatrix', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:14:08 --> Call to undefined method App\Models\DataMatrixModel::getKriteria
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Models\DataMatrixModel.php(111): CodeIgniter\Model->__call('getKriteria', [])
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-20 08:16:50 --> mysqli_sql_exception: Table 'topsis3.nilai_matrik' doesn't exist in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `nilai`\n...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nilai`\n...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nilai`\n...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`\n...', Array, false)
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-20 08:16:50 --> Table 'topsis3.nilai_matrik' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`
+FROM `nilai_matrik`
+WHERE `id_kriteria` = :id_kriteria:
+ORDER BY `id_matrik` ASC', [...], false)
+ 2 APPPATH\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-20 08:17:15 --> mysqli_sql_exception: Unknown column 'id_matrik' in 'order clause' in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `nilai`\n...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nilai`\n...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nilai`\n...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`\n...', Array, false)
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-20 08:17:15 --> Unknown column 'id_matrik' in 'order clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`
+FROM `nilai_matrix`
+WHERE `id_kriteria` = :id_kriteria:
+ORDER BY `id_matrik` ASC', [...], false)
+ 2 APPPATH\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:17:38 --> Undefined property: stdClass::$id_kriteria
+in APPPATH\Models\DataMatrixModel.php on line 136.
+ 1 APPPATH\Models\DataMatrixModel.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_kriteria', 'APPPATH\\Models\\DataMatrixModel.php', 136)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-20 08:19:49 --> mysqli_sql_exception: Unknown column 'id_matrik' in 'order clause' in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `nilai`\n...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nilai`\n...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nilai`\n...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`\n...', Array, false)
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-20 08:19:49 --> Unknown column 'id_matrik' in 'order clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`
+FROM `nilai_matrix`
+WHERE `id_kriteria` = :id_kriteria:
+ORDER BY `id_matrik` ASC', [...], false)
+ 2 APPPATH\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:20:03 --> Undefined property: stdClass::$id_kriteria
+in APPPATH\Models\DataMatrixModel.php on line 136.
+ 1 APPPATH\Models\DataMatrixModel.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_kriteria', 'APPPATH\\Models\\DataMatrixModel.php', 136)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:21:06 --> Undefined property: stdClass::$nilai
+in APPPATH\Models\DataMatrixModel.php on line 166.
+ 1 APPPATH\Models\DataMatrixModel.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nilai', 'APPPATH\\Models\\DataMatrixModel.php', 166)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:21:27 --> Undefined property: stdClass::$nilai
+in APPPATH\Models\DataMatrixModel.php on line 164.
+ 1 APPPATH\Models\DataMatrixModel.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nilai', 'APPPATH\\Models\\DataMatrixModel.php', 164)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:22:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:22:22 --> Undefined property: stdClass::$nilai
+in APPPATH\Models\DataMatrixModel.php on line 160.
+ 1 APPPATH\Models\DataMatrixModel.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nilai', 'APPPATH\\Models\\DataMatrixModel.php', 160)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:23:28 --> Undefined property: stdClass::$nilai
+in APPPATH\Models\DataMatrixModel.php on line 156.
+ 1 APPPATH\Models\DataMatrixModel.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nilai', 'APPPATH\\Models\\DataMatrixModel.php', 156)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:24:09 --> Undefined property: stdClass::$nilai
+in APPPATH\Models\DataMatrixModel.php on line 156.
+ 1 APPPATH\Models\DataMatrixModel.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nilai', 'APPPATH\\Models\\DataMatrixModel.php', 156)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:27:32 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$nilai
+in APPPATH\Models\DataMatrixModel.php on line 156.
+ 1 APPPATH\Models\DataMatrixModel.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$nilai', 'APPPATH\\Models\\DataMatrixModel.php', 156)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-20 08:30:28 --> mysqli_sql_exception: Table 'topsis3.nilai_matrik' doesn't exist in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `nilai`\n...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nilai`\n...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nilai`\n...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`\n...', Array, false)
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-20 08:30:28 --> Table 'topsis3.nilai_matrik' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`
+FROM `nilai_matrik`
+WHERE `id_kriteria` = :id_kriteria:
+ORDER BY `id_matrik` ASC', [...], false)
+ 2 APPPATH\Models\DataMatrixModel.php(129): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:30:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:30:54 --> Undefined property: stdClass::$id_kriteria
+in APPPATH\Models\DataMatrixModel.php on line 136.
+ 1 APPPATH\Models\DataMatrixModel.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_kriteria', 'APPPATH\\Models\\DataMatrixModel.php', 136)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:32:59 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 175.
+ 1 APPPATH\Models\DataMatrixModel.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 175)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:33:20 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 175.
+ 1 APPPATH\Models\DataMatrixModel.php(175): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 175)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-20 08:36:37 --> mysqli_sql_exception: Unknown column 'nilai_matrix.nama_kriteria' in 'field list' in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `nilai`,...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nilai`,...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nilai`,...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`,...', Array, false)
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Models\DataMatrixModel.php(131): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-20 08:36:37 --> Unknown column 'nilai_matrix.nama_kriteria' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`, `nilai_matrix`.`nama_kriteria` as `namaKriteria`
+FROM `nilai_matrix`
+JOIN `alternatif` ON `alternatif`.`id_alternatif` = `nilai_matrix`.`id_alternatif`
+JOIN `kriteria` ON `kriteria`.`id_kriteria` = `nilai_matrix`.`id_kriteria`
+WHERE `nilai_matrix`.`id_kriteria` = :nilai_matrix.id_kriteria:
+ORDER BY `id_matrix` ASC', [...], false)
+ 2 APPPATH\Models\DataMatrixModel.php(131): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:37:22 --> Undefined property: stdClass::$id_kriteria
+in APPPATH\Models\DataMatrixModel.php on line 138.
+ 1 APPPATH\Models\DataMatrixModel.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id_kriteria', 'APPPATH\\Models\\DataMatrixModel.php', 138)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:38:11 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:38:55 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:39:21 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:40:11 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:40:50 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-20 08:41:16 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `nilai_matrix`
+JOIN `alternatif` ON `alternatif`.`id_alternatif` = `nilai' at line 1 in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `nilai`,...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `nilai`,...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `nilai`,...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`,...', Array, false)
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Models\DataMatrixModel.php(131): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-20 08:41:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*
+FROM `nilai_matrix`
+JOIN `alternatif` ON `alternatif`.`id_alternatif` = `nilai' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1602): CodeIgniter\Database\BaseConnection->query('SELECT `nilai`, `nama_kriteria`, `nilai_matrix`.`id_kriteria` AS `id_kriteria`, *
+FROM `nilai_matrix`
+JOIN `alternatif` ON `alternatif`.`id_alternatif` = `nilai_matrix`.`id_alternatif`
+JOIN `kriteria` ON `kriteria`.`id_kriteria` = `nilai_matrix`.`id_kriteria`
+WHERE `nilai_matrix`.`id_kriteria` = :nilai_matrix.id_kriteria:
+ORDER BY `id_matrix` ASC', [...], false)
+ 2 APPPATH\Models\DataMatrixModel.php(131): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:41:49 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:42:27 --> Attempt to read property "namaKriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "namaKriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:43:31 --> Undefined array key "nilai_matrix.id_kriteria"
+in APPPATH\Models\DataMatrixModel.php on line 129.
+ 1 APPPATH\Models\DataMatrixModel.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai_matrix.id_kriteria"', 'APPPATH\\Models\\DataMatrixModel.php', 129)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:44:02 --> Attempt to read property "namaKriteria" on array
+in APPPATH\Models\DataMatrixModel.php on line 177.
+ 1 APPPATH\Models\DataMatrixModel.php(177): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "namaKriteria" on array', 'APPPATH\\Models\\DataMatrixModel.php', 177)
+ 2 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:44:39 --> Cannot use object of type mysqli as array
+in APPPATH\Models\DataMatrixModel.php on line 129.
+ 1 APPPATH\Controllers\DataHasil.php(76): App\Models\DataMatrixModel->getidealMatrix('benefit')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:46:35 --> Undefined variable $header
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 28.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $header', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(95): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:47:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:47:29 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 34.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 4 APPPATH\Controllers\DataHasil.php(96): view('hasil_topsis/matrix_ideal', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:48:27 --> Undefined variable $symbol
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 45.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $symbol', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(97): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:49:02 --> Undefined variable $matrixAplus
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 50.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $matrixAplus', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 50)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(98): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:49:33 --> Undefined variable $headerMin
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 60.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $headerMin', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 60)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(99): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:50:02 --> Undefined variable $symbolMin
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 77.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $symbolMin', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 77)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(100): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:51:00 --> Undefined variable $matrixAminus
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 82.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $matrixAminus', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 82)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(101): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 08:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 08:55:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:55:05 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 40.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:56:09 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 72.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:56:53 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 72.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 08:57:08 --> Attempt to read property "nama_kriteria" on array
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 72.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_kriteria" on array', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 08:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:21:33 --> Undefined variable $h
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 35.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $h', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:22:20 --> Undefined variable $modelMatrix
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 56.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $modelMatrix', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:23:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:23:01 --> Call to undefined method App\Models\DataMatrixModel::getNilaiMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(56): CodeIgniter\Model->__call('getNilaiMatrik', [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:24:54 --> Undefined variable $nbot
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 91.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nbot', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 91)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:25:26 --> Undefined variable $nbot
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 91.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nbot', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 91)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:28:09 --> Undefined variable $idk
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 90.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idk', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 90)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:28:46 --> Undefined variable $dn
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 90.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dn', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 90)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:29:44 --> Call to undefined method App\Models\DataMatrixModel::getAlternatifMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(131): CodeIgniter\Model->__call('getAlternatifMatrik', [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:30:20 --> Undefined variable $nbot
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 166.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nbot', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 166)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:31:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:31:42 --> Undefined variable $nbot
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 90.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nbot', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 90)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:35:28 --> min(): Argument #1 ($value) must contain at least one element
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 93.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(93): min([])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:36:28 --> min(): Argument #1 ($value) must contain at least one element
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 93.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(93): min([])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:41:14 --> Undefined variable $model
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 56.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:43:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:43:29 --> Call to undefined method App\Models\DataMatrixModel::getAlternatifMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(56): CodeIgniter\Model->__call('getAlternatifMatrik', [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:43:51 --> max(): Argument #1 ($value) must contain at least one element
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 171.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(171): max([])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:50:12 --> Call to undefined method App\Models\DataMatrixModel::getKriteriaMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(56): CodeIgniter\Model->__call('getKriteriaMatrik', [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 09:50:44 --> Undefined variable $alternatifmodel
+in APPPATH\Views\hasil_topsis\matrix_ideal.php on line 72.
+ 1 APPPATH\Views\hasil_topsis\matrix_ideal.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $alternatifmodel', 'APPPATH\\Views\\hasil_topsis\\matrix_ideal.php', 72)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\matrix_ideal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/matrix_ideal', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(102): view('hasil_topsis/matrix_ideal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->ideal()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 09:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 09:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 10:28:20 --> Call to undefined method App\Controllers\DataHasil::hitungDPlus()
+in APPPATH\Controllers\DataHasil.php on line 140.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 10:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 10:36:24 --> Call to undefined method App\Models\DataMatrixModel::getKriteriaMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\DataHasil.php(191): CodeIgniter\Model->__call('getKriteriaMatrik', [...])
+ 2 APPPATH\Controllers\DataHasil.php(140): App\Controllers\DataHasil->calculateDMin([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 10:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 10:36:36 --> Object of class App\Controllers\DataHasil could not be converted to string
+in APPPATH\Controllers\DataHasil.php on line 201.
+ 1 APPPATH\Controllers\DataHasil.php(140): App\Controllers\DataHasil->calculateDMin([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 10:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 10:36:53 --> Undefined variable $dplus
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 50.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dplus', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 50)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 10:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 10:57:03 --> Call to undefined method App\Controllers\DataHasil::calculateDPlus()
+in APPPATH\Controllers\DataHasil.php on line 139.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 10:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 10:57:52 --> Undefined variable $model
+in APPPATH\Controllers\DataHasil.php on line 195.
+ 1 APPPATH\Controllers\DataHasil.php(195): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model', 'APPPATH\\Controllers\\DataHasil.php', 195)
+ 2 APPPATH\Controllers\DataHasil.php(140): App\Controllers\DataHasil->hitungDmin()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 10:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 10:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 10:59:34 --> Undefined variable $dplus
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dplus', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 11:43:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:43:31 --> Undefined array key 4
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:47:02 --> Undefined array key 4
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 11:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:48:46 --> Undefined array key -1
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key -1', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:49:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:49:39 --> Undefined array key 4
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:55:09 --> Undefined variable $model
+in APPPATH\Controllers\DataHasil.php on line 173.
+ 1 APPPATH\Controllers\DataHasil.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model', 'APPPATH\\Controllers\\DataHasil.php', 173)
+ 2 APPPATH\Controllers\DataHasil.php(139): App\Controllers\DataHasil->hitungDplus()
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:55:26 --> Undefined array key 4
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:58:20 --> Undefined array key "nilai"
+in APPPATH\Controllers\DataHasil.php on line 226.
+ 1 APPPATH\Controllers\DataHasil.php(226): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nilai"', 'APPPATH\\Controllers\\DataHasil.php', 226)
+ 2 APPPATH\Controllers\DataHasil.php(173): App\Controllers\DataHasil->getMak([...])
+ 3 APPPATH\Controllers\DataHasil.php(139): App\Controllers\DataHasil->hitungDplus()
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 11:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 11:59:40 --> Undefined array key 4
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 12:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 12:07:57 --> Undefined array key "nm_alternatif"
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 40.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_alternatif"', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(150): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 12:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 12:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 12:34:27 --> Call to undefined method App\Models\DataMatrixModel::getKriteriaMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\DataHasil.php(163): CodeIgniter\Model->__call('getKriteriaMatrik', [...])
+ 2 APPPATH\Controllers\DataHasil.php(142): App\Controllers\DataHasil->hitungDplus([...], [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 12:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 12:34:48 --> Undefined array key 4
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 49.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 49)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(153): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 12:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 12:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 12:43:37 --> Call to undefined method App\Models\DataMatrixModel::getAlternatifMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\DataHasil.php(165): CodeIgniter\Model->__call('getAlternatifMatrik', [...])
+ 2 APPPATH\Controllers\DataHasil.php(142): App\Controllers\DataHasil->hitungDplus([...], [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 12:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 13:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 13:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 13:17:22 --> Call to undefined method App\Models\DataMatrixModel::getAlternatifMatrik
+in SYSTEMPATH\Model.php on line 841.
+ 1 APPPATH\Controllers\DataHasil.php(164): CodeIgniter\Model->__call('getAlternatifMatrik', [...])
+ 2 APPPATH\Controllers\DataHasil.php(142): App\Controllers\DataHasil->hitungDplus([...], [...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 13:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 13:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 13:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-20 13:56:46 --> mysqli_sql_exception: Unknown column 'id_matrik' in 'order clause' in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT * FROM n...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM n...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM n...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(206): CodeIgniter\Database\BaseConnection->query('SELECT * FROM n...')
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(183): App\Controllers\DataHasil->calculateBobot(Object(CodeIgniter\Database\MySQLi\Connection), '1')
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(145): App\Controllers\DataHasil->calculateDPlus(Object(CodeIgniter\Database\MySQLi\Connection), Object(CodeIgniter\Session\Session))
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-20 13:56:46 --> Unknown column 'id_matrik' in 'order clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 APPPATH\Controllers\DataHasil.php(206): CodeIgniter\Database\BaseConnection->query('SELECT * FROM nilai_matrix WHERE id_kriteria = \'1\' ORDER BY id_matrik ASC')
+ 2 APPPATH\Controllers\DataHasil.php(183): App\Controllers\DataHasil->calculateBobot(Object(CodeIgniter\Database\MySQLi\Connection), '1')
+ 3 APPPATH\Controllers\DataHasil.php(145): App\Controllers\DataHasil->calculateDPlus(Object(CodeIgniter\Database\MySQLi\Connection), Object(CodeIgniter\Session\Session))
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 13:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 13:57:06 --> Undefined property: stdClass::$jarakp
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 42.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$jarakp', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(156): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 14:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 14:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 14:02:19 --> Undefined property: stdClass::$jarakp
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 43.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$jarakp', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 43)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(156): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 14:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 14:08:02 --> Undefined property: stdClass::$bobot
+in APPPATH\Controllers\DataHasil.php on line 214.
+ 1 APPPATH\Controllers\DataHasil.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$bobot', 'APPPATH\\Controllers\\DataHasil.php', 214)
+ 2 APPPATH\Controllers\DataHasil.php(145): App\Controllers\DataHasil->calculateDPlus(Object(CodeIgniter\Database\MySQLi\Connection), Object(CodeIgniter\Session\Session))
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 14:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 14:10:47 --> Undefined property: stdClass::$nm_alternatif
+in APPPATH\Controllers\DataHasil.php on line 223.
+ 1 APPPATH\Controllers\DataHasil.php(223): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nm_alternatif', 'APPPATH\\Controllers\\DataHasil.php', 223)
+ 2 APPPATH\Controllers\DataHasil.php(145): App\Controllers\DataHasil->calculateDPlus(Object(CodeIgniter\Database\MySQLi\Connection), Object(CodeIgniter\Session\Session))
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 14:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-20 14:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 14:18:45 --> Cannot use empty array elements in arrays
+in APPPATH\Controllers\DataHasil.php on line 224.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-01-20 14:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-20 14:19:11 --> Undefined property: stdClass::$bobot
+in APPPATH\Controllers\DataHasil.php on line 214.
+ 1 APPPATH\Controllers\DataHasil.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$bobot', 'APPPATH\\Controllers\\DataHasil.php', 214)
+ 2 APPPATH\Controllers\DataHasil.php(145): App\Controllers\DataHasil->calculateDPlus(Object(CodeIgniter\Database\MySQLi\Connection), Object(CodeIgniter\Session\Session))
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-20 14:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

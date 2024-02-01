@@ -1,0 +1,66 @@
+INFO - 2024-01-23 07:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 07:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 07:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 07:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 07:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-23 07:58:05 --> Undefined array key "dplus"
+in APPPATH\Controllers\DataHasil.php on line 158.
+ 1 APPPATH\Controllers\DataHasil.php(158): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "dplus"', 'APPPATH\\Controllers\\DataHasil.php', 158)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-23 07:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-23 07:58:48 --> Undefined array key "nm_alternatif"
+in APPPATH\Views\hasil_topsis\jarak_solusi.php on line 49.
+ 1 APPPATH\Views\hasil_topsis\jarak_solusi.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nm_alternatif"', 'APPPATH\\Views\\hasil_topsis\\jarak_solusi.php', 49)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\hasil_topsis\\jarak_solusi.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('hasil_topsis/jarak_solusi', [], true)
+ 5 APPPATH\Controllers\DataHasil.php(160): view('hasil_topsis/jarak_solusi', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-23 07:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:18:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:18:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-01-23 08:23:14 --> mysqli_sql_exception: Table 'topsis3.nilai_matrik' doesn't exist in D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT SUM(nila...', 0)
+#1 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(nila...')
+#2 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(nila...')
+#3 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Model.php(835): CodeIgniter\Database\BaseConnection->query('SELECT SUM(nila...')
+#4 D:\Data KU\Aplikasi\CI4\topsis4\app\Models\DataMatrixModel.php(220): CodeIgniter\Model->__call('query', Array)
+#5 D:\Data KU\Aplikasi\CI4\topsis4\app\Controllers\DataHasil.php(150): App\Models\DataMatrixModel->hitungDPlus(Array, Array)
+#6 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+#7 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+#8 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Data KU\Aplikasi\CI4\topsis4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Data KU\Aplikasi\CI4\topsis4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(47): require_once('D:\\Data KU\\Apli...')
+#11 {main}
+CRITICAL - 2024-01-23 08:23:14 --> Table 'topsis3.nilai_matrik' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Model.php(835): CodeIgniter\Database\BaseConnection->query('SELECT SUM(nilai*nilai) as nilai_kuadrat FROM nilai_matrik WHERE id_kriteria = 1')
+ 2 APPPATH\Models\DataMatrixModel.php(220): CodeIgniter\Model->__call('query', [...])
+ 3 APPPATH\Controllers\DataHasil.php(150): App\Models\DataMatrixModel->hitungDPlus([...], [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\DataHasil->jarak()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataHasil))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2024-01-23 08:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-23 08:34:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
